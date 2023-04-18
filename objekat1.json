@@ -1,0 +1,11 @@
+{
+    "student": {
+      "name": "Dalibor Marinkovic",
+      "age": 42,
+      "courses": ["JavaScript", "JavaScript Advanced", "HTML/CSS"],
+      "contact": {
+        "email": "dalibortrue@gmail.com",
+        "phone": "123-456-7890"
+      }
+    }
+  }
